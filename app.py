@@ -375,7 +375,7 @@ def main():
     init_db()
 
     st.title("CyberShield | Dashboard Profissional em Segurança da Informação")
-    st.caption("Framework utilizado: Streamlit | Banco: SQLite | Dados sintéticos de cibersegurança")
+    st.caption("Framework utilizado: Streamlit | Banco: SQLite")
 
     with st.sidebar:
         st.header("Filtros do dashboard")
