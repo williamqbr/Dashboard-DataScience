@@ -1,6 +1,6 @@
 # Dashboard de Cybersegurança em Streamlit
 
-Este projeto foi adaptado para atender ao documento solicitado, com dashboard profissional em segurança cibernética e abas adicionais sobre apresentação profissional, qualificações e skills.
+CP4 de Data Science, dashboard profissional em segurança cibernética e abas adicionais sobre apresentação profissional, qualificações e skills.
 
 ## Como executar
 
@@ -24,17 +24,6 @@ Este projeto foi adaptado para atender ao documento solicitado, com dashboard pr
 - Quem sou eu
 - Minhas qualificações
 - Skills
-
-## Dados
-
-O banco é preenchido com registros sintéticos de incidentes de segurança, incluindo:
-
-- tipo de ameaça
-- vetor de ataque
-- severidade
-- região
-- setor
-- custo, tempo de resposta e ativos afetados
 
 ## Recursos
 
