@@ -8,9 +8,9 @@ CP4 de Data Science, dashboard profissional em segurança cibernética e abas ad
 2. Instale as dependências:
    pip install -r requirements.txt
 3. Execute:
-   streamlit run app.py
-4. Abra no navegador:
-   http://localhost:8501
+   streamlit run app.py <br>
+   Ou <br>
+   Acesse este link: https://dashboard-datascience-v96dc7hhzen9kgxprzwwag.streamlit.app/#cyber-shield-dashboard-profissional-em-seguranca-da-informacao
 
 ## Estrutura
 
